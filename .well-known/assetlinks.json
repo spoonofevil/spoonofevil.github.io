@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "fr.spoony.playlistsorter",
-    "sha256_cert_fingerprints": ["873526D14305FE39CA3C9C51C46BF68958A674F3"]
+    "sha256_cert_fingerprints": ["51:A8:4F:6D:6F:D0:F9:48:70:3C:B0:44:EF:C9:DB:17:3F:EC:D6:49:AC:8D:06:1D:4B:C1:54:3F:A5:BD:F2:CF"]
   }
 }]
